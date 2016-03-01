@@ -6,6 +6,7 @@ package com.example.yin_zeping.myapplication;
 public class StringUtils {
 
     /**
+	*@auther Zeping.Yin
 	* modified
 	*/
     public static String subString(String s) {
