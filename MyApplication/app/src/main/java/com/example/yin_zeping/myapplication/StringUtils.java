@@ -7,7 +7,7 @@ public class StringUtils {
 
     /**
 	*@auther Zeping.Yin
-	* modified
+	* modifiedaaaaaa
 	*/
     public static String subString(String s) {
         return s.substring(0, 2);
