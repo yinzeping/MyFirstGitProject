@@ -5,6 +5,9 @@ package com.example.yin_zeping.myapplication;
  */
 public class StringUtils {
 
+    /**
+	* modified
+	*/
     public static String subString(String s) {
         return s.substring(0, 2);
     }
