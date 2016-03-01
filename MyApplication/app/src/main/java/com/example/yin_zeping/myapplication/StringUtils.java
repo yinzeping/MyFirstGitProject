@@ -8,6 +8,7 @@ public class StringUtils {
     /**
 	*@auther Zeping.Yin
 	* modifiedaaaaaa
+	* 1111
 	*/
     public static String subString(String s) {
         return s.substring(0, 2);
